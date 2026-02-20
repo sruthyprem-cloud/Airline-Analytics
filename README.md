@@ -135,6 +135,12 @@ Advanced revenue forecasting
 
 <img width="1092" height="614" alt="image" src="https://github.com/user-attachments/assets/9591311f-4d10-4db0-a069-1b55eb24e7af" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d0018d4-7f1c-45c4-9cfe-6dd8f9945384" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cb705c77-ff9e-4683-9118-381eb2eb66ae" />
+
+
+
+
+
 
 
 
